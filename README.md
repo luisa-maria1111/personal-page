@@ -1,2 +1,2 @@
-# personal-page
-My personal page
+# Personal page
+
